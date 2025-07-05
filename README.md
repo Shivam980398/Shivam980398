@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Machine Learning various models with Python and Anaconda
 - 💞️ I’m looking to collaborate on Projects or work
 - 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 https://shivam980398.github.io/ShivamYadavPortfolio/
+- ⚡ 
 
 <!---
 Shivam980398/Shivam980398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
