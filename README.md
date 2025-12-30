@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning various models with Python and Anaconda
 - 💞️ I’m looking to collaborate on Projects or work
 - 📫 How to reach me 
-- 😄 https://shivam980398.github.io/ShivamYadavPortfolio/
+- 😄https://portfolio-v2-shivamyadav.vercel.app/
 - ⚡ 
 
 <!---
