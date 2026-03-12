@@ -36,7 +36,7 @@ I'm a fourth-year B.Tech student in Computer Science & Engineering with a strong
 ##  Featured Projects
 
 - E-Sahyog — Unified Smart City Platform  
-  Live: https://electrohubs.netlify.app/  
+
   Built with React.js, Node.js, MongoDB — integrates city services into a single platform for residents.
 
 - ElectroHub — E-commerce Website  
@@ -48,19 +48,18 @@ I'm a fourth-year B.Tech student in Computer Science & Engineering with a strong
   A project that provides financial recommendations based on user input (JS/React + Python/ML components).
 
 - Chess Game — Multiplayer Online Chess  
-  (demo link coming)  
+  ()  
   Built with Socket.io and EJS for real-time multiplayer gameplay.
 
 - Fitness — Blog / Static Site  
   Live: https://shivam980398.github.io/SummerTrainingAllCombined/Fitness/  
   A responsive fitness blog built with HTML & CSS.
 
-- Myntra Clone — E-commerce Clone  
-  (demo link coming)  
+- Myntra Clone — E-commerce Clone    
   A front-end replica of an e-commerce storefront built with HTML, CSS and JavaScript.
 
 - Bank Management System — C++ Console App  
-  (code link coming)  
+ 
   Banking simulation demonstrating OOP, file handling, and error handling in C++.
 
 ---
