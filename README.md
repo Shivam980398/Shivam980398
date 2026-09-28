@@ -1,6 +1,6 @@
 # Hi, I'm Shivam Yadav 👋
 
-> Full Stack Developer (Fresher) • 4th-year B.Tech — Computer Science & Engineering  
+> Full Stack Developer (Fresher) • 2026 Graduate B.Tech — Computer Science & Engineering  
 > Friendly, curious, and building practical web apps while learning modern tech.
 
 Welcome to my GitHub — I build clean, user-focused web apps and enjoy learning new technologies along the way. I'm actively looking for internships and entry-level roles.
